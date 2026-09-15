@@ -1,4 +1,4 @@
-# Campus Git - Proyecto de pŕactica
+# Repositorio del Taller de Git
 # Cambio nuevo :D
 ## Uso del repositorio
 
